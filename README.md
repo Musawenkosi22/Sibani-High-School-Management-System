@@ -35,7 +35,7 @@ bash
 Open the solution file (.sln) in Visual Studio
 Update the connection string in <fill in config file, e.g. App.config> to point to your local SQL Server instance
 Run the database setup script: <fill in script name/location>
-Build and run the project (F5 in Visual Studio)
+Build and run the project (F5 in Visual Studio) login details username:musa ,password:admin
 Project Structure
 /Forms          - Windows Forms UI screens
 /Models         - Data models
